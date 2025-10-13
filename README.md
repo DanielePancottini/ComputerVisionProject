@@ -1,6 +1,6 @@
 # DEEPFAKE DETECTION USING A HYBRID MODEL: VGG16 AND BEIT VISION TRANSFORMER
 
-This is the final computer vision project of the student Daniele Pancottini (daniele.pancottini@studenti.uniroma1.it).
+This is the final project for the course **"Computer Vision"** in the MSc in Artificial Intelligence and Robotics at *Sapienza University of Rome*, academic year 2023/2024.
 
 # Datasets
 
